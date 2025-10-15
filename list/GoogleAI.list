@@ -1,6 +1,6 @@
 # Google AI Studio
-DOMAIN-SUFFIX,aistudio.google.com
-DOMAIN-SUFFIX,generativelanguage.googleapis.com
-DOMAIN-SUFFIX,makersuite.google.com
-DOMAIN-SUFFIX,ai.google.dev
 DOMAIN,aistudio.google.com
+DOMAIN,generativelanguage.googleapis.com
+DOMAIN,makersuite.google.com
+DOMAIN,ai.google.dev
+DOMAIN-SUFFIX,generativelanguage.googleapis.com
